@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sam Wessley
+title: sam wessley
 email: samwessley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my site. I'll post projects I made here, blog posts and essays, etc.
 baseurl: "/test-blog" # the subpath of your site, e.g. /blog
 url: "https://samwessley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: samwessley
 github_username:  samwessley
+linkedin_username: samwessley
 
 # Build settings
 # Removed minima theme to create a regular theme
@@ -52,3 +52,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - index.md
+  - about.md
+  - blog.md
