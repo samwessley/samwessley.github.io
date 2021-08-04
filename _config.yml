@@ -27,6 +27,8 @@ url: "https://samwessley.github.io" # the base hostname & protocol for your site
 github_username:  samwessley
 linkedin_username: samwessley
 
+author: Sam Wessley
+
 # Build settings
 # Removed minima theme to create a regular theme
 # theme: minima

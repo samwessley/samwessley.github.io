@@ -3,3 +3,29 @@
 ---
 
 @import "minima";
+
+body {
+    background-color: #fdfdfd;
+}
+
+.wrapper {
+    max-width: 640px;
+}
+
+.site-header {
+    border: none;
+    min-height: $spacing-unit * 1.865;
+}
+
+.site-title:link,
+.site-title:visited,
+.site-title:hover,
+.site-title:active {
+    color: #9D4A07;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+.page-content {
+    padding: 0;
+}
