@@ -8,6 +8,10 @@ body {
     background-color: #fdfdfd;
 }
 
+p {
+    font-size: 18px;
+}
+
 .wrapper {
     max-width: 640px;
 }
@@ -28,4 +32,8 @@ body {
 
 .page-content {
     padding: 0;
+}
+
+img + em {
+    font-size: 0.8em;
 }
