@@ -17,7 +17,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-
+  
   &,
   &:visited {
     color: $grey-color-dark;
@@ -29,7 +29,7 @@
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
-      display: none;
+    display: none;
   }
 
   .menu-icon {
@@ -46,7 +46,8 @@
     }
   }
 
-  @include media-query($on-palm) {
+  //This is part of the standard minima theme but is disabled to disable the hamburger menu on small screens
+  /*@include media-query($on-palm) {
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
@@ -97,7 +98,7 @@
       }
       margin-left: 20px;
     }
-  }
+  }*/
 }
 
 

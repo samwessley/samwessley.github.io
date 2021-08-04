@@ -14,18 +14,18 @@ p {
     line-height: 1.6em;
 }
 
-a,
-a:visited {
+.post-link,
+.post-link:visited {
     color: #222;
-}
-
-a:hover {
-    text-decoration: none;
 }
 
 .post-title,
 .post-link {
     font-size: 24px;
+}
+
+.post-link:hover {
+    text-decoration: none;
 }
 
 img {
@@ -139,4 +139,21 @@ img + em {
 
 .rss-subscribe a {
     color: goldenrod;
+}
+
+.site-nav {
+    background-color: #fcfcf2;
+    border: none;
+}
+
+@include media-query($on-palm) {
+    .site-title {
+        float: none;
+    }
+
+    .site-nav {
+        float: none;
+        display: block;
+        line-height: 20px;
+    }
 }
