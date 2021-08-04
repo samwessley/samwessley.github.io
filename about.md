@@ -18,15 +18,16 @@ Apart from programming, I’m interested in architecture, art and design, photog
 
 <br>
 
-<p style="font-weight:500">Education</p>
-
-<p>University of Wisconsin, Madison (2020 - 2021)</p>
-<p style="font-size: 16px">Wisconsin School of Business</p>
-<p style="font-size: 16px; font-style: italic">Master of Science in Real Estate</p>
-
-<p>University of Wisconsin, Madison (2017 - 2020)</p>
-<p style="font-size: 16px">College of Letters & Science</p>
-<p style="font-size: 16px; font-style: italic">Bachelor of Arts in Economics, Philosophy</p>
+<div class="education">
+    <p style="font-weight:500">Education</p>
+    <p>University of Wisconsin, Madison (2020 - 2021)</p>
+    <p style="font-size: 12px">Wisconsin School of Business</p>
+    <p style="font-size: 12px; font-style: italic">Master of Science in Real Estate</p>
+    <br>
+    <p>University of Wisconsin, Madison (2017 - 2020)</p>
+    <p style="font-size: 12px">College of Letters & Science</p>
+    <p style="font-size: 12px; font-style: italic">Bachelor of Arts in Economics, Philosophy</p>
+</div>
 
 <br>
 

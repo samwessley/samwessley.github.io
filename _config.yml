@@ -24,9 +24,11 @@ description: ""
 baseurl: "/test-blog" # the subpath of your site, e.g. /blog
 url: "https://samwessley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  samwessley
-linkedin_username: samwessley
 
+# Additional properties that are not included in the base minima theme are added here
 author: Sam Wessley
+show_excerpts: true
+linkedin_username: samwessley
 
 # Build settings
 # Removed minima theme to create a regular theme

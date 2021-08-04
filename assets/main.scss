@@ -9,9 +9,27 @@ body {
 }
 
 p {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 300;
     line-height: 1.6em;
+}
+
+a,
+a:visited {
+    color: #222;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.post-title,
+.post-link {
+    font-size: 24px;
+}
+
+img {
+    margin: 0;
 }
 
 .wrapper {
@@ -85,9 +103,40 @@ p {
 }
 
 .page-content {
+    margin-top: 2em;
     padding: 0;
+}
+
+.education p {
+    margin: 0;
 }
 
 img + em {
     font-size: 0.8em;
+}
+
+.blog h3 {
+    margin: 0;
+}
+
+.post-meta {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.post-list li {
+    margin-bottom: 4em;
+}
+
+.post-list li p {
+    display: block;
+    margin-top: 10px;
+}
+
+.post-header {
+    margin: 0;
+}
+
+.rss-subscribe a {
+    color: goldenrod;
 }
