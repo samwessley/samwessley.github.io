@@ -6,4 +6,4 @@ layout: page
 title: projects
 ---
 
-![Late July in Wisconsin](/assets/images/IMG_4803.jpg)
+![Late July in Wisconsin](/assets/images/IMG_4700.jpg)
