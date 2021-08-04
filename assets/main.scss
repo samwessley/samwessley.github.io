@@ -21,6 +21,7 @@ p {
 .site-header {
     border: none;
     min-height: $spacing-unit * 1.865;
+    text-transform: lowercase;
 }
 
 .site-title:link,
@@ -30,6 +31,57 @@ p {
     color: #9D4A07;
     font-weight: 800;
     text-decoration: none;
+}
+
+.projects a#projects {
+    text-decoration: underline;
+    text-decoration-color:tomato;
+    text-decoration-thickness: 2px;
+    text-underline-offset:3px;
+}
+
+#projects {
+    text-decoration-color: tomato;
+    text-decoration-thickness: 2px;
+    text-underline-offset:3px;
+}
+
+.about a#about {
+    text-decoration: underline;
+    text-decoration-color:skyblue;
+    text-decoration-thickness: 2px;
+    text-underline-offset:3px;
+}
+
+#about {
+    text-decoration-color: skyblue;
+    text-decoration-thickness: 2px;
+    text-underline-offset:3px;
+}
+
+.blog #blog {
+    text-decoration: underline;
+    text-decoration-color: darkmagenta;
+    text-decoration-thickness: 2px;
+    text-underline-offset:3px;
+}
+
+#blog {
+    text-decoration-color: darkmagenta;
+    text-decoration-thickness: 2px;
+    text-underline-offset:3px;
+}
+
+#github {
+    text-decoration-color: seagreen;
+    text-decoration-thickness: 2px;
+    text-underline-offset:3px;
+}
+
+#contact {
+    text-decoration-color: goldenrod;
+    text-decoration-thickness: 2px;
+    text-underline-offset:3px;
 }
 
 .page-content {
