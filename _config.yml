@@ -29,7 +29,7 @@ github_username:  samwessley
 author: Sam Wessley
 show_excerpts: true
 linkedin_username: samwessley
-
+permalink: /blog/:year/:month/:day/:title/
 # Build settings
 # Removed minima theme to create a regular theme
 # theme: minima
