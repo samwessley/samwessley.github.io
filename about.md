@@ -30,5 +30,4 @@ Apart from programming, I’m interested in architecture, art and design, photog
 </div>
 
 <br>
-
----
+<br>
