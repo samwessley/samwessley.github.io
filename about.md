@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Sam, and I’m a designer and developer with about ten years invested in learning about programming and software development. I plan to put some of my current projects onto this site as I complete them.
 
-I have experience with Java and Python; iOS development using Swift, XCode, C#, and Unity; and web development using HTML, CSS, PHP, and JavaScript.
+I have experience with Java and Python; iOS development using Swift, XCode, C#, and Unity; and web development using HTML, CSS, PHP, and JavaScript. I'm also deeply interested in digital design and have been learning Figma in addition to my past experience with Sketch, Photoshop and Adobe Illustrator.
 
 Apart from programming, I’m interested in architecture, art and design, photography, music, philosophy, health and wellness, and entrepreneurship. My goal is to incorporate some of these interests into building a startup. In the meantime I will keep learning as much as I can.
 
