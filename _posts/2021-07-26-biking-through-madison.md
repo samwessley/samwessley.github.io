@@ -6,7 +6,7 @@ categories:
 image: /assets/images/IMG_4803.jpg
 ---
 
-I spent my last summer in Madison, Wisconsin biking a lot. Despite having spent the last four years in Madison, the past year was my first with a bike, so I've been exploring the many paved trails that extend from downtown into the surrounding suburbs and prairies. Madison is known for its cycling trails and hospitality to bikers, but as a bikeless undergraduate I never understood why. Before getting a bike last year I was constrained to wherever I could walk downtown, most streets of which are quite busy and not particularly inviting to ride a bike on. There is one commuter path that runs through the city along an old railroad line, but it wasn't until this year that I realized it's actually outside of town where Madison's bike-friendliness shines.
+I spent my last summer in Madison, Wisconsin biking a lot. Despite having spent the past four years in Madison, this past year was my first with a bike, so I've been exploring the many paved trails that extend from downtown into the surrounding suburbs and prairies. Madison is known for its cycling trails and hospitality to bikers, but as a bikeless undergraduate I never understood why. Before getting a bike last year I was constrained to wherever I could walk downtown, most streets of which are quite busy and not particularly inviting to ride a bike on. There is one commuter path that runs through the city along an old railroad line, but it wasn't until this year that I realized it's actually outside of town where Madison's bike-friendliness shines.
 
 ![](/assets/images/IMG_4803.jpg)
 
