@@ -6,7 +6,7 @@ layout: page
 title: projects
 ---
 
-![](/assets/images/IMG_4700.jpg)
+![](/assets/images/IMG_5484.jpg)
 *Late July in Wisconsin.*
 
 This website is a work in progress. Projects coming soon.
