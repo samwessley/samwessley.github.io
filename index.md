@@ -7,8 +7,9 @@ title: projects
 ---
 
 ![](/assets/images/IMG_5484.jpg)
+<p style="font-size: 12px">Fall in De Pere, Wisconsin.</p>
 
 This website is a work in progress. Projects coming soon.
 
 <br>
-<p style="font-size: 10px">&copy; {{ site.time | date: '%Y' }} Sam Wessley</p>
+<!--<p style="font-size: 10px">&copy; {{ site.time | date: '%Y' }} Sam Wessley</p>-->
