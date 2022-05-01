@@ -30,4 +30,14 @@ Apart from programming, I’m interested in architecture, art and design, photog
 </div>
 
 <br>
+
+--- 
+
 <br>
+
+<div class="relevant-coursework">
+    <p style="font-weight:500">Relevant Coursework</p>
+    <ul>
+        <li>Comp Sci 300</li>
+    </ul>
+</div>
