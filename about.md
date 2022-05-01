@@ -38,7 +38,7 @@ Apart from programming, I’m interested in architecture, art and design, photog
 <div class="relevant-coursework">
     <p style="font-weight:500">Relevant Coursework</p>
     <ul>
-        <li style="font-size: 14px, font-weight: 300">CS 300 - Programming II</li>
+        <li style="font-size: 14px; font-weight: 300">CS 300 - Programming II</li>
         <li style="font-size: 14px">CS 400 - Programming III</li>
         <li style="font-size: 14px">CS 240 - Discrete Mathematics</li>
         <li style="font-size: 14px">Math 222 - Calculus II</li>
