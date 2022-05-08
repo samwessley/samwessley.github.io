@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-My name is Sam, and I'm currently learning about programming and software development with hopes of working at a software startup. Please see <a href="https://github.com/samwessley">my GitHub</a> for some stuff I've built.
+My name is Sam, and I'm currently learning about programming and software development with hopes of working at a software startup. Please see <a href="https://github.com/samwessley">my GitHub</a> for things I've built.
 
 I have experience with Java and Python; iOS development using Swift, XCode, C#, and Unity; and web development using HTML, CSS, PHP, and JavaScript. I'm also interested in digital design. Recently I have been using Figma to develop the UI for a mobile puzzle game I'm building called Mesa. I also have experience with Sketch, Photoshop and Adobe Illustrator.
 
