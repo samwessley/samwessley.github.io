@@ -11,6 +11,7 @@ I have experience with Java and Python; iOS development using Swift, XCode, C#, 
 Apart from programming, I’m interested in architecture, art and design, photography, music, philosophy, health and wellness, and entrepreneurship. My goal is to incorporate some of these interests into building a startup at some point. For right now, I'm trying to learn as much as I can.
 
 
+
 ---
 
 <br>
