@@ -9,7 +9,9 @@ My name is Sam, and I'm currently learning about programming and software develo
 I have experience with Java and Python; iOS development using Swift, XCode, C#, and Unity; and web development using HTML, CSS, PHP, and JavaScript. I'm also interested in digital design. Recently I have been using Figma to develop the UI for a mobile puzzle game I'm building called Mesa. I also have experience with Sketch, Photoshop and Adobe Illustrator.
 
 Apart from programming, I’m interested in architecture, art and design, photography, music, philosophy, health and wellness, and entrepreneurship. My goal is to incorporate some of these interests into building a startup at some point. For right now, I'm trying to learn as much as I can.
+
 <br>
+
 ---
 
 <br>
